@@ -1,6 +1,4 @@
-Hello everyone. 
-![Whispering...](https://github.githubassets.com/images/mona-whisper.gif =50) 
-====
+# Hello everyone.
 <p align='center'>
 Nice to see you.
 ---
